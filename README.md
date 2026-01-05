@@ -119,6 +119,12 @@ This dataset is for ABC Multistate bank with following columns:
 
 ---
 
+## Conclusion
+
+Logistic regression was used as a baseline due to its interpretability, while the decision tree improved recall by capturing non-linear patterns. 
+
+However, the Random Forest model achieved the best overall performance, maintaining high recall while significantly improving precision and F1 score. Given the high cost of missing churners in a banking context, the Random Forest model with a tuned probability threshold is recommended for deployment.
+
 ## Recommendations
 
 **1. Customer Retention Campaigns**
