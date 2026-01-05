@@ -142,8 +142,6 @@ This dataset is for ABC Multistate bank with following columns:
 
 ## Technical Stack
 
-## Technical Stack
-
 ### Programming Language
 - **Python 3.8+**
 
